@@ -1,17 +1,17 @@
 
 ## Technologies Used
 
-*   **Language:** C# (.NET 7 or later)
+*   **Language:** C# (.NET 9 or later)
 *   **Framework:** ASP.NET Core Web API
 *   **Message Broker:** RabbitMQ
-*   **Database:** SQLite (for demonstration, easily replaced with PostgreSQL, SQL Server, etc.)
+*   **Database:** SQL Server
 *   **API Gateway:** YARP (Yet Another Reverse Proxy)
 *   **Serialization:** Newtonsoft.Json
 *   **Logging:** Microsoft.Extensions.Logging
 
 ## Prerequisites
 
-*   .NET 7 SDK or later
+*   .NET 9 SDK or later
 *   RabbitMQ Server (installed and running)
 *   Visual Studio or a compatible IDE (e.g., VS Code with C# extension)
 
@@ -194,7 +194,3 @@
 *   **RabbitMQ Connection Issues:** Check that the RabbitMQ server is running and that the connection settings in `appsettings.json` are correct.
 *   **Message Consumption Errors:** Verify that the queues are correctly bound to the exchanges and that the message format is valid.
 *   **API Gateway Routing Problems:** Inspect the YARP configuration in `appsettings.json` and ensure that the routes and cluster destinations are correctly configured.
-
-## License
-
-[Choose a license, e.g., MIT License]

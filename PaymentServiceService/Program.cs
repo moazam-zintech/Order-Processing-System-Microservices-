@@ -1,8 +1,19 @@
+using OrderProcessing.Shared.Models;
+using OrderProcessing.Shared.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+builder.Services.AddSingleton<RabbitMqService>();
+builder.Services.AddSingleton<RabbitMqConfig>();
+var test = builder.Configuration.GetSection("RabbitMq");
+builder.Services.Configure<RabbitMqConfig>(test);
+
+
+builder.Services.AddControllers();
 
 var app = builder.Build();
 
@@ -19,9 +30,11 @@ var summaries = new[]
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
 };
 
+
+app.MapControllers();
 app.MapGet("/weatherforecast", () =>
 {
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
+    var forecast = Enumerable.Range(1, 5).Select(index =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
@@ -33,7 +46,7 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast");
 
-app.Run();
+await app.RunAsync();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {

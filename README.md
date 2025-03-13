@@ -19,7 +19,7 @@ This project serves as a learning platform and reference architecture for develo
 *   **Event-Driven Architecture:**  Services react to events, promoting real-time data processing.
 *   **API Gateway:** Centralized entry point using YARP for simplified routing and system management.
 *   **SQLite Persistence:**  Demonstrates data storage in the Order Service (easily adaptable to other databases).
-*   **.NET 7:** Built using the latest .NET technology stack.
+*   **.NET 9:** Built using the latest .NET technology stack.
 *   **Configurable:** Easily adaptable configurations using `appsettings.json` and dependency injection.
 
 ## Services

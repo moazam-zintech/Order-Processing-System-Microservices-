@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D Folder\\Order Processing System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC65FFDA-5FC8-4A46-BA9F-941FDD3C80B7}|OrderProcessing.Shared\\OrderProcessing.Shared.csproj|d:\\d folder\\order processing system\\orderprocessing.shared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC65FFDA-5FC8-4A46-BA9F-941FDD3C80B7}|OrderProcessing.Shared\\OrderProcessing.Shared.csproj|solutionrelative:orderprocessing.shared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|d:\\d folder\\order processing system\\notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|d:\\d folder\\order processing system\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|d:\\d folder\\order processing system\\notificationservice\\notificationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|d:\\d folder\\order processing system\\notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|d:\\d folder\\order processing system\\notificationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{944F4B49-879B-48F0-B5DF-75628EAED741}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBFBFAF-2B91-4A7C-A788-7799F6E1D38C}|ApiGateway\\ApiGateway.csproj|d:\\d folder\\order processing system\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DBFBFAF-2B91-4A7C-A788-7799F6E1D38C}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBFBFAF-2B91-4A7C-A788-7799F6E1D38C}|ApiGateway\\ApiGateway.csproj|d:\\d folder\\order processing system\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DBFBFAF-2B91-4A7C-A788-7799F6E1D38C}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\paymentserviceservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\paymentserviceservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC65FFDA-5FC8-4A46-BA9F-941FDD3C80B7}|OrderProcessing.Shared\\OrderProcessing.Shared.csproj|d:\\d folder\\order processing system\\orderprocessing.shared\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC65FFDA-5FC8-4A46-BA9F-941FDD3C80B7}|OrderProcessing.Shared\\OrderProcessing.Shared.csproj|solutionrelative:orderprocessing.shared\\services\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|d:\\d folder\\order processing system\\paymentserviceservice\\worker\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963210A-45B4-482A-A4B9-54CE22EEDA1E}|PaymentServiceService\\PaymentServiceService.csproj|solutionrelative:paymentserviceservice\\worker\\orderconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\workers\\paymentresultconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\workers\\paymentresultconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|d:\\d folder\\order processing system\\orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D627AA59-43B3-4DAE-91D9-7F95971D2ACD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DBFBFAF-2B91-4A7C-A788-7799F6E1D38C}|ApiGateway\\ApiGateway.csproj|d:\\d folder\\order processing system\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DBFBFAF-2B91-4A7C-A788-7799F6E1D38C}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T10:02:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T10:02:31.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T10:02:52.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:00:51.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:59:22.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "PaymentServiceService\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "PaymentServiceService\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:15:18.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "NotificationService\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:14:01.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationService.http",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\NotificationService\\NotificationService.http",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService.http",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\NotificationService\\NotificationService.http",
+              "RelativeToolTip": "NotificationService\\NotificationService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-07T11:23:41.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:27:12.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderProcessing.Shared\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Shared\\Models\\Order.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderProcessing.Shared\\Models\\Order.cs",
+              "RelativeToolTip": "OrderProcessing.Shared\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:14:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentServiceService\\Program.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Program.cs",
+              "RelativeToolTip": "PaymentServiceService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:01:31.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Program.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\NotificationService\\Program.cs",
+              "RelativeToolTip": "NotificationService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:10:36.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderProcessing.Shared\\Services\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "OrderProcessing.Shared\\Services\\RabbitMqService.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderProcessing.Shared\\Services\\RabbitMqService.cs",
+              "RelativeToolTip": "OrderProcessing.Shared\\Services\\RabbitMqService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:45:08.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\NotificationService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NotificationService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\NotificationService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NotificationService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:12:06.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\NotificationService\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationService\\appsettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\NotificationService\\appsettings.json",
+              "RelativeToolTip": "NotificationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T11:10:37.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentServiceService.csproj",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\PaymentServiceService.csproj",
+              "RelativeDocumentMoniker": "PaymentServiceService\\PaymentServiceService.csproj",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\PaymentServiceService.csproj",
+              "RelativeToolTip": "PaymentServiceService\\PaymentServiceService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T11:33:48.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PaymentServiceService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PaymentServiceService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:01:40.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentServiceService\\appsettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\appsettings.json",
+              "RelativeToolTip": "PaymentServiceService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T11:05:06.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PaymentServiceService\\appsettings.Development.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\appsettings.Development.json",
+              "RelativeToolTip": "PaymentServiceService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T11:05:54.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:02:47.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentResultConsumer.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\Workers\\PaymentResultConsumer.cs",
+              "RelativeDocumentMoniker": "OrderService\\Workers\\PaymentResultConsumer.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\Workers\\PaymentResultConsumer.cs",
+              "RelativeToolTip": "OrderService\\Workers\\PaymentResultConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:01:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\OrderDbContext.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:57:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\OrderService\\Models\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OrderEntity.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\OrderService\\Models\\OrderEntity.cs",
+              "RelativeToolTip": "OrderService\\Models\\OrderEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:33:58.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderConsumer.cs",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Worker\\OrderConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentServiceService\\Worker\\OrderConsumer.cs",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\PaymentServiceService\\Worker\\OrderConsumer.cs",
+              "RelativeToolTip": "PaymentServiceService\\Worker\\OrderConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:45:17.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\D Folder\\Order Processing System\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\D Folder\\Order Processing System\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T06:58:55.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

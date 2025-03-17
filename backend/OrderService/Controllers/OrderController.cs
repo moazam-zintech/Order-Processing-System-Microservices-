@@ -1,5 +1,6 @@
 ﻿// OrderService/Controllers/OrderController.cs
 using Microsoft.AspNetCore.Mvc;
+using OrderProcessing.Shared.Enums;
 using OrderProcessing.Shared.Models;
 using OrderProcessing.Shared.Services;
 using OrderService.Data;
@@ -26,7 +27,7 @@ namespace OrderService.Controllers
         public async Task<IActionResult> CreateOrder(Order order)
         {
             order.OrderId = Guid.NewGuid();
-            order.Status = "Created"; // Set initial status
+            order.Status = OrderStatus.Created; // Set initial status
 
             var orderEntity = new OrderEntity
             {
@@ -66,7 +67,7 @@ namespace OrderService.Controllers
         }
 
         [HttpPut("{id}/status")]
-        public async Task<IActionResult> UpdateOrderStatus(Guid id, string status)
+        public async Task<IActionResult> UpdateOrderStatus(Guid id, OrderStatus status)
         {
             var orderEntity = await _context.Orders.FindAsync(id);
             if (orderEntity == null)

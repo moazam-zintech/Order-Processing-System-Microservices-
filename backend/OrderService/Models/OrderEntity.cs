@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using OrderProcessing.Shared.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace OrderService.Models
 {
@@ -8,6 +9,6 @@ namespace OrderService.Models
         public Guid OrderId { get; set; }
         public string CustomerId { get; set; }
         public decimal TotalAmount { get; set; }
-        public string Status { get; set; }
+        public OrderStatus Status { get; set; }
     }
 }

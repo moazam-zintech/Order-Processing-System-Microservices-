@@ -1,5 +1,6 @@
 ﻿// OrderService/Workers/PaymentResultConsumer.cs
 using Newtonsoft.Json;
+using OrderProcessing.Shared.Enums;
 using OrderProcessing.Shared.Models;
 using OrderProcessing.Shared.Services;
 using OrderService.Data;
@@ -35,7 +36,7 @@ namespace OrderService.Workers
                             var order = await dbContext.Orders.FindAsync(paymentResult.OrderId);
                             if (order != null)
                             {
-                                order.Status = paymentResult.Success ? "Paid" : "Payment Failed";
+                                order.Status = paymentResult.Success ? OrderStatus.Paid : OrderStatus.PaymentFailed;
                                 await dbContext.SaveChangesAsync();
                                 _logger.LogInformation($"Order {paymentResult.OrderId} status updated to {order.Status}.");
                             }
